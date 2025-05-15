@@ -1,0 +1,8 @@
+{
+    "name": "alliz/erm",
+    "require": {
+        "cocur/slugify": "^4.6",
+        "ramsey/uuid": "^4.7",
+        "fakerphp/faker": "^1.24"
+    }
+}
