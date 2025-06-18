@@ -1,5 +1,5 @@
 GET http://127.0.0.1:8000/get-csrf-token
 Accept: application/json
 ###
-DELETE http://127.0.0.1:8000/games/3
-X-CSRF-TOKEN: zhA8XnZDfXuHg9ZDCFU50QLfYkCA3VDb1gP7Ah89
+DELETE http://127.0.0.1:8000/games/2
+X-CSRF-TOKEN: RO3BcVMpXK02yNrXubZn086vvQPV3Rvhx5Hg4fyj
